@@ -1,9 +1,9 @@
-/*Grupo: el profesor y las chicas super poderosas        CIENCIA DE LA COMPUTACIÓN I  CCOMP2-1
+/*Grupo: el profesor y las chicas super poderosas        CIENCIA DE LA COMPUTACIÃ“N I  CCOMP2-1
 INTEGRANTES: 
 - Josue Carpio 
 - Ariana Leon 
-- Jorge Nuñez
-- Anthony Rosriguez*/
+- Jorge NuÃ±ez
+- Anthony Rodriguez*/
 
 #include <iostream>
 #include <string.h>
@@ -58,7 +58,7 @@ int main()
         //Bucle del jugador 1
         while(jugar)
         {
-            //Elegir posición
+            //Elegir posiciÃ³n
             char posi1 = ' ';
             std::cout << jug1 << " Elija la posicion: " << std::endl;
             std::cin >> posi1;
@@ -325,7 +325,7 @@ int main()
         //Bucle del jugador 2
         while(jugar)
         {
-            //Elegir posición 
+            //Elegir posiciÃ³n 
             char posi2 = ' ';
             std::cout << jug2 << " Elija la posicion: " << std::endl;
             std::cin >> posi2;
