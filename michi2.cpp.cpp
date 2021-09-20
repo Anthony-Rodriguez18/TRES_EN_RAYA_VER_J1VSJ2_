@@ -3,7 +3,7 @@ INTEGRANTES:
 - Josué Carpio 
 - Ariana Leon 
 - Jorge Nuñez
-- Anthony Rodriguez*/
+- Anthony Rodriguez aea*/
 
 #include <iostream>
 #include <string.h>
