@@ -1,4 +1,4 @@
-/*Grupo: el profesor y las chicas super poderosas        CIENCIA DE LA COMPUTACIÓN I  CCOMP2-1
+/*Grupo: El profesor y las chicas super poderosas        CIENCIA DE LA COMPUTACIÓN I  CCOMP2-1
 INTEGRANTES: 
 - Josue Carpio 
 - Ariana Leon 
